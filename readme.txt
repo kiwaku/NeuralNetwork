@@ -1,0 +1,1 @@
+MNIST data is required to be downloaded before running the code. Make sure the file is located in the same directory as the Dockerfile and requirements. Make sure the MNIST file contains "train" and "test" files, rename MNIST file as appropriate. 
